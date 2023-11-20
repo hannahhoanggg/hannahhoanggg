@@ -7,8 +7,8 @@ Over the past five years, I dedicated my professional life to Applied Behavior A
 
 * 🌍  I'm based in Orange County, CA
 * ✉️  You can contact me at [hannahhoanggg@gmail.com](mailto:hannahhoanggg@gmail.com)
-* 🚀  I'm currently working on [Thermal Hydrate](http://thermal-hydrate-dev.us-west-2.elasticbeanstalk.com/)
-* 🧠  I'm learning TypeScript
+* 🚀  My latest project is [Thermal Hydrate](http://thermal-hydrate-dev.us-west-2.elasticbeanstalk.com/)
+* 🧠  I'm learning TypeScript and Python
 
 ### Skills
 
