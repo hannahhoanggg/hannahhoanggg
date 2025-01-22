@@ -3,7 +3,7 @@
 Software Developer
 ------------------
 
-Over the past five years, I dedicated my professional life to Applied Behavior Analysis, a field focused on understanding human behavior and promoting positive change. However, I found a new passion in the world of coding. With a thirst for knowledge and determination, I embarked on a transformative journey to become a full stack developer. I honed my skills in HTML, CSS, JavaScript, Node.js, Express, and PostgreSQL, and today, I'm proud to say that I've successfully transitioned into this exciting and dynamic tech field. I am now equipped to design, build, and optimize web applications, and I look forward to the endless opportunities and challenges that this new career path offers.
+After five years of working in Applied Behavior Analysis, where I honed problem-solving and analytical skills, I discovered a new passion for coding. Fueled by curiosity and determination, I embarked on a journey to become a full-stack developer, mastering technologies like HTML, CSS, JavaScript, Node.js, Express, and PostgreSQL. Today, I design, build, and optimize web applications, combining creativity with technical expertise. I’m excited to bring my unique perspective and adaptability into the tech field, embracing opportunities to learn, collaborate, and tackle challenges in this ever-evolving industry.
 
 * 🌍  I'm based in Orange County, CA
 * ✉️  You can contact me at [hannahhoanggg@gmail.com](mailto:hannahhoanggg@gmail.com)
