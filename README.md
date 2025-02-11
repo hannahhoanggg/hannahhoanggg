@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRjNzJvbm1wZmZmOHIzcnhvd3hiMjlub3dqbnJnZGNlaDVmbGo3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="programmer cat" width="110" />
+<p align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRjNzJvbm1wZmZmOHIzcnhvd3hiMjlub3dqbnJnZGNlaDVmbGo3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="programmer cat" width="120" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=4000&color=FFC0CB&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Hannah+Hoang!;Welcome+to+my+Github!" alt="Typing SVG" />
-</div>
+</p>
 
 Full Stack Software Developer
 ------------------
