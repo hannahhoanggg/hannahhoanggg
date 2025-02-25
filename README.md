@@ -1,7 +1,7 @@
-<p align="center">
+<div style="display: flex; align-items: center;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRjNzJvbm1wZmZmOHIzcnhvd3hiMjlub3dqbnJnZGNlaDVmbGo3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="programmer cat" width="120" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=4000&color=FFC0CB&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Hannah+Hoang!;Welcome+to+my+Github!" alt="Typing SVG" />
-</p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=4000&color=FFC0CB&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Hannah+Hoang!;Welcome+to+my+Github!" alt="Typing SVG" />
+</div>
 
 Full Stack Software Developer
 ------------------
@@ -10,7 +10,7 @@ I am a full-stack developer with a background in Applied Behavior Analysis and h
 Check out my projects below, and let’s connect!
 
 * 🌍  I'm based in Orange County, CA
-* ✉️  You can contact me at [hannahhoanggg@gmail.com](mailto:hannahhoanggg@gmail.com)
+* ✉️  You can contact me at [hannahhoanggg@gmail.com](mailto:hannahhoanggg@gmail.com) and <a href="https://www.linkedin.com/in/hannah-tran-hoang/">Hannah's LinkedIn</a>
 * 🚀  My latest project is [Harry Potter AJAX](https://hannahhoanggg.github.io/ajax-project/)
 * 🧠  I'm in the process of rebuilding my existing projects. Stay tuned for updates!
 
